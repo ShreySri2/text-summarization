@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+ipykernel
+nltk
+wordcloud
+gensim
+scikit-learn
+torch
+-e .
