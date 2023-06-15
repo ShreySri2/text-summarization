@@ -22,9 +22,9 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='YourPackageName',
+    name='text_summarization',
     version='1.0.0',
-    author='Shrey Srivastava',
+    author='ShreySri',
     author_email='shrey2502@gmail.com',
     description='model with interface to get dimensions of products on amazon',
     packages=find_packages(),
