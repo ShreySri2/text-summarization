@@ -25,8 +25,8 @@ setup(
     name='text_summarization',
     version='1.0.0',
     author='ShreySri',
-    author_email='shrey2502@gmail.com',
-    description='model with interface to get dimensions of products on amazon',
+    author_email='shrey.srivastava2502@gmail.com',
+    description='transformer based text summazizer',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 
